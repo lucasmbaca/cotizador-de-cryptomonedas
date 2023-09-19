@@ -1,7 +1,17 @@
-# Vue 3 + Vite
+# 📊 Crypto Price Quote
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Crypto Price Quote is a simple command-line tool that provides real-time cryptocurrency price information. It allows you to select a currency type (e.g., USD, GBP) and choose a specific cryptocurrency. The tool retrieves data on the current price, highest and lowest prices of the day, and the percentage change over the last 24 hours.
 
-## Recommended IDE Setup
+## 🚀 Features
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+- **💱 Currency Selection:** Choose your preferred currency for pricing (e.g., USD, GBP, EUR).
+- **🪙 Cryptocurrency Selection:** Select from a wide range of cryptocurrencies (e.g., Bitcoin, Ethereum, Litecoin).
+- **🕒 Real-time Data:** Get up-to-the-minute price quotes, including the highest and lowest prices of the day.
+- **📈 Percentage Change:** View the percentage change in the cryptocurrency's value over the past 24 hours.
+
+## 📋 Usage
+
+1. Run the application from the command line.
+2. Choose your currency type (e.g., USD, GBP).
+3. Select the cryptocurrency you want to inquire about.
+4. Receive real-time information, including the current price, daily high and low, and 24-hour percentage change.
